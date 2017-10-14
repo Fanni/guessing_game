@@ -1,1 +1,0 @@
-{"rustc":980921917241514605,"features":"[]","target":5741303931657209064,"profile":17879379437418342571,"deps":[["rand v0.3.17",5025685646744196469],["rand v0.3.17",2034193318755139864]],"local":{"Precalculated":"1507937575.692730637s (/Users/ikhwan/Fanni/playground/maenin-rust/guessing_game/target/rls/debug/deps/guessing_game-bc506dac3c7978c0.d)"},"rustflags":[]}
